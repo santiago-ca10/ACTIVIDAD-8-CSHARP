@@ -12,7 +12,7 @@ Convierte dólares (USD) a:
 ## 🛠️ Estructura del proyecto
 
 - `Form1.cs` - Interfaz gráfica y lógica de interacción.
-- `Strategy/` - Contiene las estrategias de conversión (`UsdToEur`, `UsdToGbp`, etc.).
+- `Strategy/` - Contiene las estrategias de conversión (`UsdToEur`, `UsdToCop`, etc.).
 - `ConverterContext.cs` - Aplica la estrategia de conversión seleccionada.
 
 ## 📐 Patrón de diseño aplicado
